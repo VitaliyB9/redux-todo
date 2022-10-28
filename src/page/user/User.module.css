@@ -1,0 +1,13 @@
+.user input {
+  background-color: rgb(199, 191, 182);
+}
+
+.inputTwo {
+  margin-left: 5px;
+}
+
+.name {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 1%;
+}
